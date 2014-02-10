@@ -1,0 +1,13 @@
+#algumacoisa{
+	height: 100px;
+	width: 200px;
+	background: black;
+	-webkit-transition: all 0.3 ease-in-out;
+	-moz-transition: all 0.3 ease-in-out;
+	-o-transition: all 0.3 ease-in-out;
+	-ms-transition: all 0.3 ease-in-out;
+	transition: all 0.3 ease-in-out;
+	background: url("ICORP/");			
+
+
+}
